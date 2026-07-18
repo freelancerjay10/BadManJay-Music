@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BadMan Jay Music</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<header>
+  <h1>BadMan Jay</h1>
+  <p>Afrobeat Songwriter & Artist</p>
+</header>
+
+<section>
+  <h2>Welcome</h2>
+  <p>
+    Welcome to the official home of BadMan Jay. 
+    Discover original Afrobeat songs, stories, and upcoming projects.
+  </p>
+</section>
+
+<section>
+  <h2>Music</h2>
+  <p>New music coming soon.</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: jayy@Badmanjmusic.site</p>
+</section>
+
+</body>
+</html>
