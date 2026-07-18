@@ -1,34 +1,60 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>BadMan Jay Music</title>
+  <title>BadMan Jay | Afrobeat Artist</title>
   <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
 
 <header>
   <h1>BadMan Jay</h1>
-  <p>Afrobeat Songwriter & Artist</p>
+  <p>Afrobeat • Afropop • Afrofusion Songwriter</p>
+  <a href="#music">Listen To My Music</a>
 </header>
 
-<section>
-  <h2>Welcome</h2>
+<section id="about">
+  <h2>About BadMan Jay</h2>
   <p>
-    Welcome to the official home of BadMan Jay. 
-    Discover original Afrobeat songs, stories, and upcoming projects.
+    BadMan Jay is an Afrobeat songwriter and artist inspired by real-life
+    experiences, deep thoughts, culture, the world around him, and imagination.
+    Through Afrobeat, Afropop, and Afrofusion sounds, he creates music that
+    connects emotions, stories, and rhythms with listeners around the world.
   </p>
 </section>
 
-<section>
+<section id="music">
   <h2>Music</h2>
-  <p>New music coming soon.</p>
+  <p>
+    Original songs and upcoming releases from BadMan Jay.
+    Stay tuned for new sounds, collaborations, and projects.
+  </p>
 </section>
 
-<section>
-  <h2>Contact</h2>
-  <p>Email: jayy@Badmanjmusic.site</p>
+<section id="videos">
+  <h2>Videos</h2>
+  <p>
+    Music videos, studio sessions, and behind-the-scenes content coming soon.
+  </p>
 </section>
+
+<section id="contact">
+  <h2>Contact & Booking</h2>
+  <p>Email: Jayy@badmanjmusic.site</p>
+  <p>TikTok: adeyemialao745</p>
+<p>Instagram: @adeyemialao10</p>
+  <p>
+    Facebook:
+    <a href="https://www.facebook.com/share/1E2h3f5Get/?mibextid=wwXIfr">
+    Visit Facebook Page
+    </a>
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 BadMan Jay Music. All Rights Reserved.</p>
+</footer>
 
 </body>
 </html>
