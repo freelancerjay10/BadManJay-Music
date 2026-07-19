@@ -68,3 +68,28 @@ img {
   display: block;
   margin: 20px auto;
 }
+
+body {
+  background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
+  color: white;
+}
+
+section {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 15px;
+  padding: 30px;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.15);
+}
+
+h1, h2 {
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.5);
+}
