@@ -122,3 +122,15 @@ img {
   text-decoration: none;
   font-weight: bold;
 }
+
+.music-card {
+  background: rgba(255,255,255,0.08);
+  padding: 25px;
+  border-radius: 15px;
+  margin-top: 20px;
+  box-shadow: 0 0 20px rgba(255,255,255,0.15);
+}
+
+.music-card h3 {
+  font-size: 24px;
+}
