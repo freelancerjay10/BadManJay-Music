@@ -112,6 +112,7 @@ img {
   opacity: 0.8;
 }
 
+
 .music-btn {
   display: inline-block;
   margin-top: 20px;
@@ -142,4 +143,16 @@ img {
   box-shadow: 0 0 25px rgba(255,255,255,0.4);
   display: block;
   margin: 20px auto;
+}
+.video-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.video-links a {
+  min-width: 180px;
+  text-align: center;
 }
